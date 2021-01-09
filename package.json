@@ -1,0 +1,17 @@
+{
+  "name": "Discord-RPC",
+  "version": "1.0.0",
+  "description": "a Simple Discord RPC Created with discord-rpc package!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Ehsan Fox (ehsan8184@gmail.com)",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "discord-rpc": "^3.1.4",
+    "readline": "^1.3.0"
+  }
+}
